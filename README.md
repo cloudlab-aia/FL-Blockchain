@@ -169,7 +169,7 @@ This work was supported by:
 
 ## 📬 **Contact**
 
-For technical issues or collaboration proposals:
+For technical issues or collaboration proposals, this are the authors contact information:
 
 **Tamai Ramírez-Gordillo**
 📧 **tamai.ramirez@ua.es**
